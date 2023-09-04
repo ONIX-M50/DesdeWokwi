@@ -24,9 +24,7 @@ documentation:
   author:       "ONIX-M50"      # Your name
   title:        "Sumador/Sustractor de 3 bit con acarreo y prestamo"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Este es un pequeño proyecto para la iniciativa VLSI, el cual consta de un circuito que realiza tanto la suma     "
-                "como la sustracción de dos numeros de 3 bits, los cuales pueden venir acompañados de un bit de acarreo o prestamo"
-                "respectivamente."
+  description:  "Este es un pequeño proyecto para la iniciativa VLSI, el cual consta de un circuito que realiza tanto la suma como la sustracción de dos numeros de 3 bits, los cuales pueden venir acompañados de un bit de acarreo o prestamo respectivamente."
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
       Este circuito recibe 2 numeros de 3 bits cada uno y opcionalmente un bit de acarreo y/o un bit de prestamo. El circuito realiza
