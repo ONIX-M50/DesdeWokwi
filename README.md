@@ -2,9 +2,7 @@
 
 # Sumador/Sustractor de 3 bits con acarreo y prestamo.
 
-TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
-
-Go to https://tinytapeout.com for instructions!
+Este es un pequeño proyecto para la inciativa VLSI de la rama estudiantil IEEE, del que, se ha partido de una plantilla predefinida de 8 entradas y 8 salidas para diseñar nuestro propio circuito. Dicho circuito consta un circuito que recibe 2 numeros de 3 bits y opcionalmente un bit de acarreo y uno de prestamo, con los que realiza tanto su suma como su resta y las entrega a la salida (en 4 bits cada resultado).
 
 ## How to change the Wokwi project
 
