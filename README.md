@@ -18,7 +18,8 @@ Entradas:
 - IN5 primer bit del segundo número
 - IN6 segundo bit del segundo número
 - IN7 tercer bit del segundo número
-- IN8 bit de prestamo para la resta de ambos números
+- IN8 bit de préstamo para la resta de ambos números
+
 Salidas:
 - OUT1 primer bit del resultado de la suma
 - OUT2 segundo bit del resultado de la suma
@@ -27,4 +28,4 @@ Salidas:
 - OUT5 primer bit del resultado de la resta
 - OUT6 segundo bit del resultado de la resta
 - OUT7 tercer bit del resultado de la resta
-- OUT8 bit de prestamo del resultado de la resta
+- OUT8 bit de préstamo del resultado de la resta
