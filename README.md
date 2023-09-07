@@ -7,7 +7,7 @@ Para su diseño se ha partido de una plantilla predefinida de 8 entradas y 8 sal
 
 ## Uso principal
 
-Se puede implementar para la adición y sustracción constante de 2 numeros binarios de 1 a 3 bits. Sin embargo, en caso de requerirse la operación entre 2 numeros con más de 3 bits, se pueden implementar más de un integrado, ya que el circuito acepta y proporciona bits de acarreo y prestamo. Un ejemplo de ello es: asumir que se requiere sumar 2 números de 8 bits cada uno, por lo que se pueden implementar 3 integrados en secuencia simplemente conectando el bit de acarreo de salida del primer integrado al bit de acarreo de entrada del segundo integrado y asi sucesivamente.
+Se puede implementar para la adición y sustracción constante de 2 números binarios de 1 a 3 bits. Sin embargo, en caso de requerirse la operación entre 2 numeros con más de 3 bits, se pueden implementar más de un integrado, ya que el circuito acepta y proporciona bits de acarreo y préstamo. Un ejemplo de ello es: asumir que se requiere sumar 2 números de 8 bits cada uno, por lo que se pueden implementar 3 integrados en secuencia simplemente conectando el bit de acarreo de salida del primer integrado al bit de acarreo de entrada del segundo integrado y asi sucesivamente.
 
 ## Descripción de los pines
 Entradas:
