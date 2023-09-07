@@ -4,22 +4,6 @@
 
 Este es un pequeño proyecto para la inciativa VLSI de la rama estudiantil IEEE, del que, se ha partido de una plantilla predefinida de 8 entradas y 8 salidas para diseñar nuestro propio circuito. Dicho circuito consta de un arreglo lógico que recibe 2 numeros de 3 bits y opcionalmente un bit de acarreo y uno de prestamo, con los que realiza tanto su suma como su resta y las entrega a la salida (en 4 bits cada resultado).
 
-## How to change the Wokwi project
-
-Edit the [info.yaml](info.yaml) and change the wokwi_id to match your project.
-
-## How to enable the GitHub actions to build the ASIC files
-
-Please see the instructions for:
-
-- [Enabling GitHub Actions](https://tinytapeout.com/faq/#when-i-commit-my-change-the-gds-action-isnt-running)
-- [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
-
-## How does it work?
-
-When you edit the info.yaml to choose a different ID, the [GitHub Action](.github/workflows/gds.yaml) will fetch the digital netlist of your design from Wokwi.
-
-After that, the action uses the open source ASIC tool called [OpenLane](https://www.zerotoasiccourse.com/terminology/openlane/) to build the files needed to fabricate an ASIC.
 
 ## Resources
 
